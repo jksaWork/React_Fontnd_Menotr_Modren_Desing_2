@@ -17,7 +17,7 @@ function StateProvider({ children }) {
 
   const changeLanguageHandler = () => {
     const newLange = Lang == "ar" ? "en" : "ar";
-    document.dir = "ltr" ? "rtl" : "ltr";
+    document.dir = document.dir == "ltr" ? "rtl" : "ltr";
     console.log("Hwllo World");
     i18next.changeLanguage(newLange);
     setLang(newLange);
