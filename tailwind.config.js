@@ -12,6 +12,8 @@ export default {
     },
   },
   plugins: [
+    require("tailwind-direction").default,
+
     function ({ addComponents }) {
       addComponents({
         ".container": {

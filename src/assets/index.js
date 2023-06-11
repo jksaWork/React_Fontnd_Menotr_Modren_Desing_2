@@ -11,3 +11,4 @@ export { default as waveDark1 } from "./images/wave1-dark.svg";
 export { default as waveDark2 } from "./images/wave2.svg";
 export { default as footerImge } from "./images/bg-footer-top-desktop.svg";
 export { default as FooterLogo } from "./images/logo.svg";
+export { default as Lang } from "./images/arabic.png";
