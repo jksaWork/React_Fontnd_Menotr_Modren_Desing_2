@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+#footer_img {
+  filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(125deg)
+    brightness(103%) contrast(103%);
+  margin-bottom: 1.5rem;
+}
+.count_head {
+  font-size: 4.6rem;
+}

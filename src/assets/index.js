@@ -1,0 +1,13 @@
+export { default as HedaerImage } from "./images/logo.svg";
+export { default as Mockups } from "./images/screen-mockups.svg";
+export { default as communities } from "./images/icon-communities.svg";
+export { default as messages } from "./images/icon-messages.svg";
+export { default as wave1 } from "./images/bg-section-top-desktop-1.svg";
+export { default as wave2 } from "./images/bg-section-bottom-desktop-1.svg";
+export { default as growToogether } from "./images/illustration-grow-together.svg";
+export { default as conversation } from "./images/illustration-flowing-conversation.svg";
+export { default as users } from "./images/illustration-your-users.svg";
+export { default as waveDark1 } from "./images/wave1-dark.svg";
+export { default as waveDark2 } from "./images/wave2.svg";
+export { default as footerImge } from "./images/bg-footer-top-desktop.svg";
+export { default as FooterLogo } from "./images/logo.svg";
